@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/arkad/Desktop/SIH%202nd%20idea/CampusXstud/src/app/page.tsx"],"sourcesContent":["import { redirect } from \"next/navigation\";\nexport default function Home() { redirect(\"/dashboard\"); }\n"],"names":["Home"],"mappings":";;;;AAAA;AAAA;;AACe,SAASA;IAAS,IAAA,iMAAQ,EAAC;AAAe"}}]
+}
