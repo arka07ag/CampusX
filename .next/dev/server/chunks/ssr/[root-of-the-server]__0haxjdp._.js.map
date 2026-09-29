@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/arkad/Desktop/SIH%202nd%20idea/CampusXstud/src/app/[section]/page.tsx"],"sourcesContent":["export default function Placeholder({ params }: { params: { section: string } }) {\n  return (<div className=\"card\"><h1 className=\"text-lg font-semibold capitalize\">{params.section.replace(/-/g, \" \")}</h1>\n    <p className=\"mt-1 text-sm text-slate-500\">This page is built in a later stage.</p></div>);\n}\n"],"names":["Placeholder","params","className","section","replace"],"mappings":";;;;;;AAAe,SAASA,YAAY,EAAEC,MAAM,EAAmC;IAC7E,qBAAQ,8OAAC;QAAIC,WAAU;;0BAAO,8OAAC;gBAAGA,WAAU;0BAAoCD,OAAOE,OAAO,CAACC,OAAO,CAAC,MAAM;;;;;;0BAC3G,8OAAC;gBAAEF,WAAU;0BAA8B;;;;;;;;;;;;AAC/C"}}]
+}

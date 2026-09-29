@@ -42,6 +42,16 @@ const nav = [
         icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__["Users"]
     },
     {
+        href: "/face-recognition",
+        label: "Face Recognition",
+        icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$layout$2d$dashboard$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LayoutDashboard$3e$__["LayoutDashboard"]
+    },
+    {
+        href: "/students",
+        label: "Students",
+        icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__["Users"]
+    },
+    {
         href: "/attendance",
         label: "Attendance",
         icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$calendar$2d$check$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CalendarCheck$3e$__["CalendarCheck"]
@@ -83,7 +93,7 @@ function AppShell({ children }) {
                         className: "h-6 w-6 shrink-0 text-blue-400"
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 22,
+                        lineNumber: 23,
                         columnNumber: 9
                     }, this),
                     !collapsed && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -93,7 +103,7 @@ function AppShell({ children }) {
                                 children: "CampusX"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                lineNumber: 23,
+                                lineNumber: 24,
                                 columnNumber: 29
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -101,19 +111,19 @@ function AppShell({ children }) {
                                 children: "Admin"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                lineNumber: 23,
+                                lineNumber: 24,
                                 columnNumber: 86
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 23,
+                        lineNumber: 24,
                         columnNumber: 24
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                lineNumber: 21,
+                lineNumber: 22,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
@@ -130,20 +140,20 @@ function AppShell({ children }) {
                                 className: "h-4 w-4 shrink-0"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                lineNumber: 30,
+                                lineNumber: 31,
                                 columnNumber: 13
                             }, this),
                             !collapsed && label
                         ]
                     }, href, true, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 28,
+                        lineNumber: 29,
                         columnNumber: 19
                     }, this);
                 })
             }, void 0, false, {
                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                lineNumber: 25,
+                lineNumber: 26,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -154,20 +164,20 @@ function AppShell({ children }) {
                         className: "h-4 w-4"
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 34,
+                        lineNumber: 35,
                         columnNumber: 9
                     }, this),
                     !collapsed && "Collapse"
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                lineNumber: 33,
+                lineNumber: 34,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/layout/AppShell.tsx",
-        lineNumber: 20,
+        lineNumber: 21,
         columnNumber: 5
     }, this);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -178,7 +188,7 @@ function AppShell({ children }) {
                 children: side
             }, void 0, false, {
                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                lineNumber: 39,
+                lineNumber: 40,
                 columnNumber: 7
             }, this),
             open && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -189,7 +199,7 @@ function AppShell({ children }) {
                         children: side
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 40,
+                        lineNumber: 41,
                         columnNumber: 68
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -197,13 +207,13 @@ function AppShell({ children }) {
                         onClick: ()=>setOpen(false)
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 40,
+                        lineNumber: 41,
                         columnNumber: 104
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                lineNumber: 40,
+                lineNumber: 41,
                 columnNumber: 17
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -220,12 +230,12 @@ function AppShell({ children }) {
                                     className: "h-5 w-5"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/AppShell.tsx",
-                                    lineNumber: 43,
+                                    lineNumber: 44,
                                     columnNumber: 89
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                lineNumber: 43,
+                                lineNumber: 44,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -235,7 +245,7 @@ function AppShell({ children }) {
                                         className: "absolute left-3 top-2.5 h-4 w-4 text-slate-400"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                        lineNumber: 45,
+                                        lineNumber: 46,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -243,13 +253,13 @@ function AppShell({ children }) {
                                         className: "w-full rounded-lg border border-slate-200 bg-slate-50 py-2 pl-9 pr-3 text-sm outline-none focus:border-brand"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                        lineNumber: 46,
+                                        lineNumber: 47,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                lineNumber: 44,
+                                lineNumber: 45,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -263,27 +273,27 @@ function AppShell({ children }) {
                                                 className: "h-5 w-5 text-slate-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                                lineNumber: 49,
+                                                lineNumber: 50,
                                                 columnNumber: 99
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "absolute -right-1 -top-1 h-2 w-2 rounded-full bg-red-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                                lineNumber: 49,
+                                                lineNumber: 50,
                                                 columnNumber: 142
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                        lineNumber: 49,
+                                        lineNumber: 50,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__["MessageSquare"], {
                                         className: "hidden h-5 w-5 text-slate-500 sm:block"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                        lineNumber: 50,
+                                        lineNumber: 51,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -295,7 +305,7 @@ function AppShell({ children }) {
                                                 children: "AD"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                                lineNumber: 52,
+                                                lineNumber: 53,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -306,7 +316,7 @@ function AppShell({ children }) {
                                                         children: "Admin"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                                        lineNumber: 53,
+                                                        lineNumber: 54,
                                                         columnNumber: 67
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -314,25 +324,25 @@ function AppShell({ children }) {
                                                         children: "Administrator"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                                        lineNumber: 53,
+                                                        lineNumber: 54,
                                                         columnNumber: 105
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                                lineNumber: 53,
+                                                lineNumber: 54,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                        lineNumber: 51,
+                                        lineNumber: 52,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                lineNumber: 48,
+                                lineNumber: 49,
                                 columnNumber: 11
                             }, this),
                             menu && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -346,7 +356,7 @@ function AppShell({ children }) {
                                         children: t
                                     }, t, false, {
                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                        lineNumber: 57,
+                                        lineNumber: 58,
                                         columnNumber: 146
                                     }, this)) : [
                                     "Profile",
@@ -357,18 +367,18 @@ function AppShell({ children }) {
                                         children: t
                                     }, t, false, {
                                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                                        lineNumber: 58,
+                                        lineNumber: 59,
                                         columnNumber: 64
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                                lineNumber: 56,
+                                lineNumber: 57,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 42,
+                        lineNumber: 43,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -376,19 +386,19 @@ function AppShell({ children }) {
                         children: children
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/AppShell.tsx",
-                        lineNumber: 61,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/layout/AppShell.tsx",
-                lineNumber: 41,
+                lineNumber: 42,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/layout/AppShell.tsx",
-        lineNumber: 38,
+        lineNumber: 39,
         columnNumber: 5
     }, this);
 }

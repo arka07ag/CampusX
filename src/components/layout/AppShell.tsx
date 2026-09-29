@@ -6,6 +6,7 @@ import { LayoutDashboard, Users, CalendarCheck, LineChart, Briefcase, Building2,
 
 const nav = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard }, { href: "/students", label: "Students", icon: Users },
+  { href: "/face-recognition", label: "Face Recognition", icon: LayoutDashboard }, { href: "/students", label: "Students", icon: Users },
   { href: "/attendance", label: "Attendance", icon: CalendarCheck }, { href: "/learning-analytics", label: "Learning Analytics", icon: LineChart },
   { href: "/career-jobs", label: "Career & Jobs", icon: Briefcase }, { href: "/hostel", label: "Hostel", icon: Building2 },
   { href: "/settings", label: "Settings", icon: Settings },
